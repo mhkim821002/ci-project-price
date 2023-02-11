@@ -1,0 +1,4 @@
+yahoo:
+  url:
+    spot: https://query2.finance.yahoo.com/v7/finance/options/%s
+    historical: https://query1.finance.yahoo.com/v7/finance/download/%s?period1=%d&period2=%d&interval=1d&events=history&includeAdjustedClose=true

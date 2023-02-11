@@ -1,0 +1,14 @@
+version: "3.6"
+
+services:
+  price:
+    build:
+      context: .
+    ports:
+    - "65020:3000"
+
+networks:
+  default:
+    name: projectset
+    external: true
+

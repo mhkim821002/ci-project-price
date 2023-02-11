@@ -1,1 +1,2 @@
-# ci-project-price
+# projectset-microservice-price
+Microservice Price ProjectSet
